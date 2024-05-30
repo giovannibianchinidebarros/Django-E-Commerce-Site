@@ -1,0 +1,16 @@
+body{
+    background-color:lightgrey;
+}
+
+
+
+.card-text{
+    color: darkgreen;
+    font-weight: 700;
+}
+
+.card-img-top{
+    height: 100px;
+    max-height: 100px;
+    min-height: 100px;
+}
